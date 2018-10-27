@@ -1,0 +1,1 @@
+alert("Claimer:\n This page is <r e s p o n s i v e> and ready to be resized!");
